@@ -1,5 +1,4 @@
-const slackHookURL =
-  "https://hooks.slack.com/services/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";
+const slackHookURL = "SLACK INCOMING WEB HOOK's URL";
 
 jQuery.prototype.offsetCenter = function () {
   let left = this.offset().left;
